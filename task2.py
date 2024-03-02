@@ -1,4 +1,4 @@
-from graph_lesson.task1 import G, ST
+from task1 import G, ST
 
 
 def dfs_paths(graph, start, goal, path=[]):
